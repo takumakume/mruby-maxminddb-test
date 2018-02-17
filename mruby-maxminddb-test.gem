@@ -1,0 +1,6 @@
+name: mruby-maxminddb-test
+description: maxminddb test
+author: takumakume
+website: https://github.com/takumakume/mruby-maxminddb-test
+protocol: git
+repository: https://github.com/takumakume/mruby-maxminddb-test.git
